@@ -1,5 +1,5 @@
 /build
-src/main/assets
+src/main/assets/*
 src/androidTest
 src/test
 !src/main/assets/placeholder.txt
